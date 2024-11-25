@@ -1,5 +1,15 @@
 # @hono/swagger-ui
 
+## 0.5.0
+
+### Minor Changes
+
+- [`8017c75bd3995c20adf7900a3ceb6bbc0900e567`](https://github.com/honojs/middleware/commit/8017c75bd3995c20adf7900a3ceb6bbc0900e567) Thanks [@rwv](https://github.com/rwv)! - customize html title for swagger-ui
+
+### Patch Changes
+
+- [#701](https://github.com/honojs/middleware/pull/701) [`0d6806958891442a0de9a0b32f24648d818e70e8`](https://github.com/honojs/middleware/commit/0d6806958891442a0de9a0b32f24648d818e70e8) Thanks [@rwv](https://github.com/rwv)! - perf: use jsdelivr instead of unpkg to serve swagger-ui assets
+
 ## 0.4.0
 
 ### Minor Changes
